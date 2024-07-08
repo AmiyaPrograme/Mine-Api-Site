@@ -10,7 +10,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "pm2 start . --attach"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
